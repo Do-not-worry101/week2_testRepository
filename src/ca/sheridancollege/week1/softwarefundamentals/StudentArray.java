@@ -1,5 +1,5 @@
 /*
- * this is mya first commit
+ * this is my second commit
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
