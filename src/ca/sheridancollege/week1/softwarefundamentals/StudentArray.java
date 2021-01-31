@@ -1,6 +1,7 @@
 /*
  * this is my second commit
  * testing .gitignore feature
+ * hello how aare you hahahha
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
